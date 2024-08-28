@@ -1,0 +1,81 @@
+html, body {
+    height: 100%;
+}
+
+#header {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: crimson;
+}
+
+.navigation {
+    text-align: center;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+    background-color: crimson;
+    color: white;
+}
+
+ul li:hover {
+    background-color: lightgoldenrodyellow;
+}
+
+footer {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+.pic {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+}
+
+#spider:hover {
+    background-color: lightcoral;
+}
+
+#hulk:hover {
+    background-color: green;
+}
+
+#war:hover {
+    background-color: black;
+}
+
+#captain:hover {
+    background-color: lightblue;
+}
+
+#ant:hover {
+    background-color: red;
+}
+
+#wasp:hover {
+    background-color:orange;
+}
+
+#marvel:hover {
+    background-color: darkblue;
+}
+
+#thor:hover {
+    background-color: gray;
+}

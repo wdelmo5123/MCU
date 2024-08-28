@@ -1,0 +1,108 @@
+html, body {
+    height: 100%;
+}
+
+#header {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: crimson;
+}
+
+.navigation {
+    text-align: center;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+    background-color: crimson;
+    color: white;
+}
+
+ul li:hover {
+    background-color: lightgoldenrodyellow;
+}
+
+.pic {
+    background-color: black;
+    padding: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+img {
+    margin-left: 285px;
+}
+
+footer {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+th:hover {
+    background-color: red;
+}
+
+tr {
+    background-color: salmon;
+    
+}
+
+tr:hover {
+    background-color: lightpink;
+}
+
+table {
+    background-color: black;
+    text-align: center;
+    margin-left: 250px;
+}
+
+.grossing {
+    text-align: center;
+    background-color: crimson;
+    color: white;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 25px;
+    padding-bottom: 25px;
+    padding-top: 10px;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+.grossing:hover {
+    background-color: lightsalmon;
+    color: black;
+}
+
+.main {
+    text-align: center;
+    background-color: crimson;
+    color: white;
+    border: 5px solid black;
+    border-radius: 25px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 20px;
+}
+
+#form:hover {
+    background-color: red
+}
+
+#favorite:hover {
+    background-color: deeppink;
+}

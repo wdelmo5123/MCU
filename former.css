@@ -1,0 +1,77 @@
+html, body {
+    height: 100%;
+}
+
+#header {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: crimson;
+}
+
+.navigation {
+    text-align: center;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+    background-color: crimson;
+    color: white;
+}
+
+ul li:hover {
+    background-color: lightgoldenrodyellow;
+}
+
+footer {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+.pic {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+}
+
+#iron:hover {
+    background-color: red;
+}
+
+#captain:hover {
+    background-color: darkblue;
+}
+
+#black:hover {
+    background-color: black;
+}
+
+#vision:hover {
+    background-color: orange;
+}
+
+#hawkeye:hover {
+    background-color: purple;
+}
+
+#wanda:hover {
+    background-color: darkred;
+}
+
+#panther:hover {
+    background-color: darkgray;
+}

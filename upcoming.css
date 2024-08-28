@@ -1,0 +1,60 @@
+html, body {
+    height: 100%;
+}
+
+#header {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: crimson;
+}
+
+.navigation {
+    text-align: center;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+    background-color: crimson;
+    color: white;
+}
+
+ul li:hover {
+    background-color: lightgoldenrodyellow;
+}
+
+footer {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+#sec {
+    text-align: center;
+    background-color: crimson;
+    color: white;
+    border-style:ridge black;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+.pic {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+}
+
+.pic:hover {
+    background-color: darkred;
+}
